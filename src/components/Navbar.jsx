@@ -154,7 +154,7 @@ export default function Navbar() {
           {isDropDown ? (
             <div className="absolute right-0 top-[100%] mt-2 w-48 px-5 py-3 shadow rounded-md shadow-lg bg-[#212429] text-gray-300 font-semibold select-none">
               <a
-                href="https://faucet.metamask.io//"
+                href="https://luckytokenfaucet.vercel.app/"
                 target="_blank"
                 rel="noopenner noreferrer"
                 className="flex justify-between items-center py-1 hover:text-white"
