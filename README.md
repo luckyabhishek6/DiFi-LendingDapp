@@ -1,6 +1,6 @@
 - SmartContract link--> https://github.com/luckyabhishek6/DeFi-Lending-Borrowing-Smart-Contract-.git
 
-viste Lending Dapp -->  https://difi-lendingdapp.vercel.app/
+- vist Lending Dapp -->  https://difi-lendingdapp.vercel.app/
 
 # Borrowing and Lending Decentralized Aapplication
 
