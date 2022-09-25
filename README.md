@@ -81,8 +81,9 @@ module.exports = {
 
 ## Functionality
 - Lending order 
-- Borrow request-
+- Borrow request
 - Loan payback 
+- Withdraw
 
 ## Description
 - The loan contract only deployed to Ropsten testnet.
