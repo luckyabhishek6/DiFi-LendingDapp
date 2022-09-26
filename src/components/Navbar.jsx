@@ -14,7 +14,7 @@ const NavItem = ({ active, content, handleOnClick }) => {
   return content == "Contract" ? (
     <a
       className={commonCss + "text-gray-300"}
-      href="https://ropsten.etherscan.io/address/0xb1489810D596b86Fe5A0410AB935df268c31E2F2"
+      href="https://ropsten.etherscan.io/address/0x682438317a94cE9bB31915Bda482bb2F5001545F"
       target="_blank"
       rel="noopenner noreferrer"
     >
